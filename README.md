@@ -4,7 +4,7 @@
 
 - Create/Join/Edit events
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/junyangchan/JIOAPP/blob/master/Jio-App-Usage.gif)
 
 - Personal/ Group chats for event creation
 - Build your own avatar that evolves with you take part in more events

@@ -1,19 +1,9 @@
-# Time Tracker Flutter Course
+# Jio, An Event App to facilitate spontaneous activities
 
-Source code for my Time Tracker Flutter Course on Udemy.
+## Features
 
-## Running the project with Firebase
-
-This project uses the following package name (case sensitive):
-
-- `com.codingwithflutter.jio` on Android
-- `com.codingwithflutter.jio` on iOS
-
-You can clone this repo and reuse this package name if you want, but you will need to register the project with your on Firebase account.
-
-Once this is done, you can download the `ios/Runner/GoogleService-Info.plist` and `android/app/google-services.json` files from your Firebase project settings as needed.
-
-Instructions for how to perform these steps are contained in the course.
-
-### [License: MIT](LICENSE.md)
+- Create/Join/Edit events
+- Personal/ Group chats for event creation
+- Build your own avatar that progresses as you take part in more events
+- JIO, match with people nearby with the same interest as you 
 
